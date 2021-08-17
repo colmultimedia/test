@@ -1,2 +1,2 @@
-console('prueba')
+console.log('prueba')
 
